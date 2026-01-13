@@ -18,7 +18,7 @@ def main() -> None:
     val = compute_value(base, multiplier)
     report = make_report(msg, val)
 
-    print(report)
+    prant(report)
 
 
 if __name__ == "__main__":
